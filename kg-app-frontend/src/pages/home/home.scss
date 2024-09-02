@@ -1,0 +1,12 @@
+@import '../../app.scss';
+
+.heading {
+    text-align: center;
+    font-size: 3rem;
+    color: $primary-color;
+
+    .heading-text {
+        font-size: 1.5rem;
+        color: $secondary-color;
+    }
+}
